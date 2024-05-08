@@ -1,0 +1,61 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+    background-color: azure;
+}
+
+.container{
+   padding: 5px;
+   display: flex;
+   justify-content: center;
+   align-items: end;
+   gap:5px;
+  
+}
+
+
+
+img{
+    width:200px;
+    height: 200px;
+    margin-bottom: 10px;
+    border-bottom: 3px solid red;
+}
+
+
+span{
+position: relative;
+margin: 20px;
+width: 200px;
+border: 1px solid red;
+text-align: center;
+}
+
+h2{
+    position: absolute;
+    text-align: center;
+    width: 60%;
+    right: 50px;
+    bottom: 230px;
+    color:white;
+    background-color:transparent;
+    
+ 
+}
+
+button{
+    background-color: brown;
+    margin: 20px;
+    padding: 15px;
+    color: aliceblue;
+}
+small{
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+p{
+    margin-top: 10px;
+}
